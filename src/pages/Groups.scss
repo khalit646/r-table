@@ -1,0 +1,14 @@
+.groups{
+    &__loading{
+        padding: 10px 30px;
+        margin-top: 30px;
+        border: 1px solid black;
+        color: blue;
+    }
+    &__error{
+        padding: 10px 30px;
+        margin-top: 30px;
+        border: 1px solid black;
+        color: red;
+    }
+}

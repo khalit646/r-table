@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+.wrapper{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.header{
+    background-color: aquamarine;
+    border-bottom: 1 px solid black;
+    padding: 10px 0;
+
+    &>.wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    &__title{
+        font-size: 1.2em;
+        font-weight: bold;
+        color: gray;
+    }
+
+    &__menu{
+        display: flex;
+        align-items: center;
+        list-style-type: none;
+    }
+
+    &__item{
+        margin-right: 20px;
+    }
+    &__item:last-child(){
+        margin-right: 0;
+    }
+}

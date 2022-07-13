@@ -1,0 +1,46 @@
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    position: relative;
+    border: 3px solid gray;
+    width: min-content;
+    margin-top: 30px;
+    user-select: none;
+    
+    &__drag{
+            position: absolute;
+            z-index: 1;
+            width: 3px;
+            height: 100%;
+            cursor: col-resize;
+            background-color: gray;
+
+            &--active{
+                background-color: cadetblue;
+                color: white;
+            }
+    }
+
+    &__header{
+        width: 100%;
+        background-color: aqua;
+        border-bottom: 1px solid black;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    &__content{
+        width: 100%;
+    }
+}
+.header{
+    &__element{
+        padding-left: 5px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        white-space: nowrap;
+        cursor: default;
+        user-select: none;
+    }
+}

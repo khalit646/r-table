@@ -1,0 +1,22 @@
+.table{
+    &__row{
+        width: 100%;
+        border-bottom: 1px solid black;
+        display: flex;
+        justify-content: flex-start;
+        &:hover{
+            background-color: azure;
+        }
+    }
+    div:last-child>&__row{
+        border-bottom: none;
+    }
+    &__element{
+        padding-left: 3px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        white-space: nowrap;
+        cursor: default;
+        user-select: none;
+    }
+}

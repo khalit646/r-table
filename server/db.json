@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "name on",
+      "date": 1656405873213,
+      "group": "C group one",
+      "like": true
+    },
+    {
+      "id": 2,
+      "name": "name two",
+      "date": 1656405873213,
+      "group": "A group two",
+      "like": false
+    },
+    {
+      "id": 3,
+      "name": "name three",
+      "date": 1656405873213,
+      "group": "D group three",
+      "like": true
+    },
+    {
+      "id": 4,
+      "name": "name fo",
+      "date": 1656405873213,
+      "group": "B group four",
+      "like": false
+    },
+    {
+      "id": 5,
+      "name": "name fiv",
+      "date": 1656405873213,
+      "group": "E group five",
+      "like": true
+    },
+    {
+      "id": 1656412717208,
+      "date": 1656412717208,
+      "name": "name six",
+      "group": "E group five",
+      "like": false
+    },
+    {
+      "id": 1656412793320,
+      "date": 1656412793320,
+      "name": "name seven",
+      "group": "B group four",
+      "like": false
+    },
+    {
+      "id": 1656412896177,
+      "date": 1656412896177,
+      "name": "namehbk",
+      "group": "D group three",
+      "like": false
+    },
+    {
+      "id": 1656415962689,
+      "date": 1656415962689,
+      "name": "name nine",
+      "group": "C group one",
+      "like": false
+    },
+    {
+      "id": 1656423853759,
+      "date": 1656423853759,
+      "name": "Hello friend",
+      "group": "C group one",
+      "like": false
+    },
+    {
+      "id": 1656424760525,
+      "date": 1656424760525,
+      "name": "dhd",
+      "group": "B group four",
+      "like": false
+    },
+    {
+      "id": 1656436846067,
+      "date": 1656436846067,
+      "name": "khaLit",
+      "group": "C group one",
+      "like": false
+    },
+    {
+      "id": 1656447438187,
+      "date": 1656447438187,
+      "name": "Сделать домашнее задание",
+      "group": "new group",
+      "like": false
+    },
+    {
+      "id": 1656499644089,
+      "date": 1656499644089,
+      "name": "тест",
+      "group": "E group five",
+      "like": false
+    },
+    {
+      "id": 1656499726831,
+      "date": 1656499726831,
+      "name": "sf",
+      "group": "абвг",
+      "like": false
+    },
+    {
+      "id": 1657053798953,
+      "date": 1657053798953,
+      "name": "ashat",
+      "group": "A group two",
+      "like": false
+    },
+    {
+      "id": 1657053864079,
+      "date": 1657053864079,
+      "name": "dfhfj",
+      "group": "k",
+      "like": false
+    },
+    {
+      "id": 1657053869431,
+      "date": 1657053869431,
+      "name": "Что то более осмысленное",
+      "group": "k",
+      "like": false
+    },
+    {
+      "id": 1657053876446,
+      "date": 1657053876446,
+      "name": "hhh",
+      "group": "k",
+      "like": false
+    }
+  ],
+  "groups": [
+    {
+      "name": "C group one",
+      "id": 1,
+      "date": 1656415962689
+    },
+    {
+      "name": "A group two",
+      "id": 2,
+      "date": 1656415962689
+    },
+    {
+      "name": "D group three",
+      "id": 3,
+      "date": 1656415962689
+    },
+    {
+      "name": "B group four",
+      "id": 4,
+      "date": 1656415962689
+    },
+    {
+      "name": "E group five",
+      "id": 5,
+      "date": 1656415962689
+    },
+    {
+      "name": "new group",
+      "date": 1656447311196,
+      "id": 1656447311196
+    },
+    {
+      "name": "new Group 2",
+      "date": 1656447405819,
+      "id": 1656447405820
+    },
+    {
+      "name": "абвг",
+      "date": 1656499681880,
+      "id": 1656499681880
+    },
+    {
+      "name": "k",
+      "date": 1657053837511,
+      "id": 1657053837511
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.links{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    &>*{
+        margin-right: 20px;
+        padding: 5px 10px;
+    }
+}
+.activelink{
+    border: 1px solid black;
+}
